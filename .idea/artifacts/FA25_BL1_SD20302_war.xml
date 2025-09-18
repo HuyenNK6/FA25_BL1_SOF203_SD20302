@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FA25_BL1_SD20302:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FA25_BL1_SD20302</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FA25_BL1_SD20302-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FA25_BL1_SD20302:war exploded" />
+    </root>
+  </artifact>
+</component>
